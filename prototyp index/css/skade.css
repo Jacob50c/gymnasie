@@ -1,0 +1,14 @@
+body{margin: 0; padding: 0; background-image: url("../img/normal.jpg");}
+
+.headerbox{height: 15vh; border-bottom: solid 4px; background: #F7F6F3;}
+.header{height: 15vh; border-bottom: solid 4px; background: #F7F6F3;}
+.imgbox{width: 80%; height: 80%; background-image: url("../img/logo.jpg"); background-size: contain;}
+.titel{color: black; text-align: center; margin-top: 30px; text-decoration: underline;}
+
+.linkBody{height: 100vh; border-right: solid 4px; background: #F7F6F3; margin: 0; padding: 0;}
+.box{float: left; width: 100%; height:10vh; margin-top: 5vh; border: solid 1px;}
+.contentbody{height: 350vh; border: solid 1px; margin: 0; padding: 0;}
+
+.contentbox{width: 80%; height: 90%; border: solid 4px; background: white; margin: auto; margin-top: 10vh;}
+
+.bottom{height: 15vh; width: 100%; border-top: solid 4px; background: rgb(0,0,0,0.9);}
